@@ -1,0 +1,6 @@
+selenium
+notebook
+pandas
+yfinance
+matplotlib
+scikit-learn
