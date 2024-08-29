@@ -2,3 +2,6 @@
 .DS_Store
 .ipynb_checkpoints
 /data
+.env
+stock-sentiment.ipynb
+stock-sentiment.py
